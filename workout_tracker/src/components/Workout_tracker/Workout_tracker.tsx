@@ -280,12 +280,12 @@ export const WorkoutrackerrNetlifyAppByHtml: FC<Props> = memo(function Workoutra
                 </div>
               </div>
               <div className={classes.item2}>
-                <div className={classes.madeWithByAkshat}>
+                <div className={classes.madebyAaron}>
                   <ul className={classes.list}>
                     <li>
                       <p className={classes.labelWrapper}>
-                        <span className={classes.label}>Made with ❤️ by </span>
-                        <span className={classes.label2}>Akshat</span>
+                        <span className={classes.label}>Made by</span>
+                        <span className={classes.label2}>Aaron</span>
                       </p>
                     </li>
                   </ul>
