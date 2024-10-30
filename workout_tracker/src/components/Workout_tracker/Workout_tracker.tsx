@@ -20,7 +20,7 @@ import { SvgIcon10 } from './SvgIcon10';
 import { Upper20armsSvgIcon } from './Upper20armsSvgIcon';
 import { Upper20legsSvgIcon } from './Upper20legsSvgIcon';
 import { WaistSvgIcon } from './WaistSvgIcon';
-import classes from './WorkoutrackerrNetlifyAppByHtml.module.css';
+import classes from './Workout_tracker.module.css';
 
 interface Props {
   className?: string;
