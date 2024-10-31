@@ -26,7 +26,7 @@ interface Props {
   className?: string;
 }
 /* @figmaId 1003:254 */
-export const WorkoutrackerrNetlifyAppByHtml: FC<Props> = memo(function WorkoutrackerrNetlifyAppByHtml(props = {}) {
+export const Workout_tracker: FC<Props> = memo(function Workout_tracker(props = {}) {
   return (
     <div className={`${resets.clapyResets} ${classes.root}`}>
       <div className={classes.frame}>
